@@ -1,0 +1,9 @@
+This project creates a bar chart using Processing.
+It follows the 7 steps of data visualization mentioned in the book 'Visualizing Data' written by Ben Fry.
+
+It uses a CSV source file with the Forbes 2000 companies.
+There are three different charts created.
+You can change btw. them by pressing: 
+ - the left mouse button - Count of companies per EU country
+ - the right mouse button - Market value (in Mio.) for each EU country, based on the Forbes 200 list
+ - pressing 'r' or 'R' - Best company rating per EU country
